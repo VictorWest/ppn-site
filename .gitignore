@@ -21,8 +21,6 @@ Desktop.ini
 *.log
 
 # Environment variables (never upload sensitive data)
-.env
-.env.local
 
 # Build files
 /dist/
@@ -33,4 +31,4 @@ Desktop.ini
 
 #.next/
 .next/
-
+config.bat
