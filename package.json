@@ -13,7 +13,6 @@
     "@react-spring/web": "^9.7.5",
     "@stitches/react": "^1.2.8",
     "axios": "^1.7.7",
-    "dotenv": "^16.4.5",
     "framer-motion": "^11.13.1",
     "fs": "^0.0.1-security",
     "gray-matter": "^4.0.3",
@@ -32,7 +31,7 @@
     "remark-html": "^16.0.1",
     "swiper": "^11.1.1"
   },
-  "description": "��#\u0000 \u0000p\u0000p\u0000n\u0000-\u0000w\u0000e\u0000b\u0000s\u0000i\u0000t\u0000e\u0000\r\u0000 \u0000",
+  "description": "\ufffd\ufffd#\u0000 \u0000p\u0000p\u0000n\u0000-\u0000w\u0000e\u0000b\u0000s\u0000i\u0000t\u0000e\u0000\r\u0000 \u0000",
   "main": "index.js",
   "directories": {
     "lib": "lib"

@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+    background-color: #2A2B3A;
+} */
+
+/* Custom Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+    width: .7rem; 
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: #404153; 
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #c3c6d2;
+    border-radius: 1rem;
+  }
+  .custom-form input:focus{
+    outline: 1px solid #5F93FE; /* Adds a blue solid outline of 2px */
+    /* outline-offset: 2px;  */
+  }
+  .date-input::-webkit-calendar-picker-indicator {
+    display: none; /* Hides the calendar icon in webkit-based browsers */
+  }
+  
+  .date-input::-ms-clear {
+    display: none; /* Hides the clear button in IE */
+  }
+  
+  .date-input::-ms-expand {
+    display: none; /* Hides the dropdown in IE */
+  }
+  
+  .date-input {
+    -webkit-appearance: none; /* Removes default styling in webkit-based browsers */
+    -moz-appearance: textfield; /* Removes default styling in Firefox */
+    appearance: none; /* Removes default styling in modern browsers */
+  }
+  
